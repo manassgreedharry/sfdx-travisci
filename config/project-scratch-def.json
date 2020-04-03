@@ -1,11 +1,12 @@
 {
-	"packageDirectories": [
-		{
-		"path": "force-app",
-		"default": true
-		}
-	],
-	"orgName": "MorisCloud",
-	"sfdcLoginUrl": "https://login.salesforce.com",
-	"sourceApiVersion": "47.0"
+  "orgName": "Dreamhouse",
+  "edition": "Developer",
+  "hasSampleData": "false",
+  "settings": {
+    "orgPreferenceSettings": {
+      "s1DesktopEnabled": true,
+      "selfSetPasswordInApi": true,
+      "s1EncryptedStoragePref2": false
+    }
+  }
 }
