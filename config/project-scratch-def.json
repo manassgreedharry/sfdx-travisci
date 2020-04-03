@@ -1,7 +1,11 @@
 {
-    "orgName": "MorisCloud",
-    "edition": "Developer",
-    "orgPreferences" : {
-        "S1DesktopEnabled" : true
-    }
+	"packageDirectories": [
+		{
+		"path": "force-app",
+		"default": true
+		}
+	],
+	"orgName": "MorisCloud",
+	"sfdcLoginUrl": "https://login.salesforce.com",
+	"sourceApiVersion": "47.0"
 }
